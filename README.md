@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Visit my [website](https://hanjws-portfolio.vercel.app/)
+Visit my <a href="https://hanjws-portfolio.vercel.app/" target="_blank">website</a>
